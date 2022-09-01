@@ -9,7 +9,7 @@ const axios = require('axios');
 
 // axios 라이브러리를 이용해 데이터 가져오기
 function getData(type){
-  const url = `/data/${type}.json`
+  const url = `https://raw.githubusercontent.com/HSJmu/Hydrogen2/main/src/data/${type}.json`
   const response = axios.get(url);
   return response.then(res => res.data)
 }
