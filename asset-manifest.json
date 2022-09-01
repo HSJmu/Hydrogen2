@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hydrogen2/static/css/main.c700e550.css",
+    "main.js": "/Hydrogen2/static/js/main.f7d59102.js",
+    "static/js/787.2ab95dd6.chunk.js": "/Hydrogen2/static/js/787.2ab95dd6.chunk.js",
+    "service-worker.js": "/Hydrogen2/service-worker.js",
+    "index.html": "/Hydrogen2/index.html",
+    "main.c700e550.css.map": "/Hydrogen2/static/css/main.c700e550.css.map",
+    "main.f7d59102.js.map": "/Hydrogen2/static/js/main.f7d59102.js.map",
+    "787.2ab95dd6.chunk.js.map": "/Hydrogen2/static/js/787.2ab95dd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c700e550.css",
+    "static/js/main.f7d59102.js"
+  ]
+}
